@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathType guid="815c92843d3a4118b8312a65beb7e0ef" xmlVersion="1.0" PathTypeId="14" PathTypeName="Generated Paths" PathTypeComplexity="36" PathTypeSteps="6" PathTypeNodeEdges="6" PathTypeCost="210" PathTypeFactor="0.5" PathTypeBlendedRate="10" PathTypeDefaultComplexity="6">
+    <Paths>
+        <Path guid="28c7c482093c4043b64789c5e7b45252" xmlVersion="1.0" name="Test Cases 1" testState="0" pathWeight="0" notes="Stored as path number 1 of 2 using optimization type: Full Coverage - All Possible Paths" source="1" importSource="" storedID="1" details="Stored as path number 1 of 2 using optimization type: Full Coverage - All Possible Paths" creator="Simon Coffey" createdDate="Wed Jul 25 14:05:37 2018" modifiedDate="Wed Jul 25 14:05:37 2018" versionCreated="1.0.0.0" modificationHistory="25/07/2018 14:05:37&#9;cofsi01:&#10;People and Roles modified.&#10;-----&#10;&#10;" overrideImportance="-1.000000" Pins="">
+            <PublishJobs/>
+            <TestMatchJobs/>
+            <Runs/>
+            <RolesPeopleMap guid="aa47ff7cf6d94b569dd858288af73042" xmlVersion="1.0">
+                <Role id="7">
+                    <Person guid="ea3939e0717d410f9c46898e84592e05" xmlVersion="1.0" id="2" isDefault="1"/>
+                </Role>
+                <Role id="8">
+                    <Person guid="68bad5a98be64846976f7ef475032854" xmlVersion="1.0" id="2" isDefault="1"/>
+                </Role>
+            </RolesPeopleMap>
+            <Segments xmlVersion="1.0" format="inArrowID,outArrowID,inID,outID,dtrowID,blockAttrGUID" value="-1,7320,-1,7253,-1:7320,7290,7281,7284,-1:7290,-1,7264,-1,-1"/>
+            <SprintBoardItem>
+                <CustomFieldValues/>
+                <ExternalLinks>
+                    <Links/>
+                </ExternalLinks>
+            </SprintBoardItem>
+        </Path>
+        <Path guid="3c62180852ac4e08ae317903dfb10ca3" xmlVersion="1.0" name="Test Cases 2" testState="0" pathWeight="0" notes="Stored as path number 2 of 2 using optimization type: Full Coverage - All Possible Paths" source="1" importSource="" storedID="1" details="Stored as path number 2 of 2 using optimization type: Full Coverage - All Possible Paths" creator="Simon Coffey" createdDate="Wed Jul 25 14:05:37 2018" modifiedDate="Wed Jul 25 14:05:37 2018" versionCreated="1.0.0.0" modificationHistory="25/07/2018 14:05:37&#9;cofsi01:&#10;People and Roles modified.&#10;-----&#10;&#10;" overrideImportance="-1.000000" Pins="">
+            <PublishJobs/>
+            <TestMatchJobs/>
+            <Runs/>
+            <RolesPeopleMap guid="aa47ff7cf6d94b569dd858288af73042" xmlVersion="1.0">
+                <Role id="7">
+                    <Person guid="ea3939e0717d410f9c46898e84592e05" xmlVersion="1.0" id="2" isDefault="1"/>
+                </Role>
+                <Role id="8">
+                    <Person guid="68bad5a98be64846976f7ef475032854" xmlVersion="1.0" id="2" isDefault="1"/>
+                </Role>
+            </RolesPeopleMap>
+            <Segments xmlVersion="1.0" format="inArrowID,outArrowID,inID,outID,dtrowID,blockAttrGUID" value="-1,7320,-1,7253,-1:7320,7300,7281,7282,-1:7300,-1,7262,-1,-1"/>
+            <SprintBoardItem>
+                <CustomFieldValues/>
+                <ExternalLinks>
+                    <Links/>
+                </ExternalLinks>
+            </SprintBoardItem>
+        </Path>
+    </Paths>
+</PathType>

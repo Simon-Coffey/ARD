@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BatchConfig>
+    <create_Next_Config>0</create_Next_Config>
+    <results_File_Location></results_File_Location>
+    <file_details>
+        <file_path>Error: Unknown path type - neither Relative nor Absolute</file_path>
+    </file_details>
+    <configuration_dir></configuration_dir>
+    <export_dir>C:/Users/cofsi01/OneDrive - CA Technologies/Profile/Documents/GitHub/ARD</export_dir>
+    <current_Iteration></current_Iteration>
+    <script_Type>Individual</script_Type>
+    <layer_settings>
+        <layer_setting>
+            <layer_id>40f6eb7b8b6d4c1c83af25321ff27726</layer_id>
+            <ExportSettings>
+                <ScriptType>0</ScriptType>
+                <FileConfiguration>43</FileConfiguration>
+                <ScriptTypeSettings scriptType="0">
+                    <IndividualSettings fileExtension="" fileNameVariable="" fileNamingSystem="3" filePrefix=""/>
+                    <MergedSettings fileExtension="" fileNameVariable="" fileNamingSystem="3" filePrefix=""/>
+                </ScriptTypeSettings>
+                <PreviewHeaderFooter Legacy="For forwards compatibility with ARD2.7 and older">
+                    <Header>
+                        <Automation SectionsEnabled="true" linkedSections="">
+                            <ObjectName></ObjectName>
+                            <LayerId></LayerId>
+                            <ObjectType></ObjectType>
+                            <ActionName></ActionName>
+                            <OverrideString></OverrideString>
+                            <RepeaterValue>1</RepeaterValue>
+                            <VariableReferences/>
+                            <itemID></itemID>
+                            <repoID></repoID>
+                            <Source>0</Source>
+                        </Automation>
+                    </Header>
+                    <Footer>
+                        <Automation SectionsEnabled="true" linkedSections="">
+                            <ObjectName></ObjectName>
+                            <LayerId></LayerId>
+                            <ObjectType></ObjectType>
+                            <ActionName></ActionName>
+                            <OverrideString></OverrideString>
+                            <RepeaterValue>1</RepeaterValue>
+                            <VariableReferences/>
+                            <itemID></itemID>
+                            <repoID></repoID>
+                            <Source>0</Source>
+                        </Automation>
+                    </Footer>
+                    <Join>
+                        <Automation SectionsEnabled="true" linkedSections="">
+                            <ObjectName></ObjectName>
+                            <LayerId></LayerId>
+                            <ObjectType></ObjectType>
+                            <ActionName></ActionName>
+                            <OverrideString></OverrideString>
+                            <RepeaterValue>1</RepeaterValue>
+                            <VariableReferences/>
+                            <itemID></itemID>
+                            <repoID></repoID>
+                            <Source>0</Source>
+                        </Automation>
+                    </Join>
+                    <BlockHeader>
+                        <Automation SectionsEnabled="true" linkedSections="">
+                            <ObjectName></ObjectName>
+                            <LayerId></LayerId>
+                            <ObjectType></ObjectType>
+                            <ActionName></ActionName>
+                            <OverrideString></OverrideString>
+                            <RepeaterValue>1</RepeaterValue>
+                            <VariableReferences/>
+                            <itemID></itemID>
+                            <repoID></repoID>
+                            <Source>0</Source>
+                        </Automation>
+                    </BlockHeader>
+                    <BlockFooter/>
+                    <StepJoin>
+                        <Automation SectionsEnabled="true" linkedSections="">
+                            <ObjectName></ObjectName>
+                            <LayerId></LayerId>
+                            <ObjectType></ObjectType>
+                            <ActionName></ActionName>
+                            <OverrideString></OverrideString>
+                            <RepeaterValue>1</RepeaterValue>
+                            <VariableReferences/>
+                            <itemID></itemID>
+                            <repoID></repoID>
+                            <Source>0</Source>
+                        </Automation>
+                    </StepJoin>
+                    <PathHeader>
+                        <Automation SectionsEnabled="true" linkedSections="">
+                            <ObjectName></ObjectName>
+                            <LayerId></LayerId>
+                            <ObjectType></ObjectType>
+                            <ActionName></ActionName>
+                            <OverrideString></OverrideString>
+                            <RepeaterValue>1</RepeaterValue>
+                            <VariableReferences/>
+                            <itemID></itemID>
+                            <repoID></repoID>
+                            <Source>0</Source>
+                        </Automation>
+                    </PathHeader>
+                    <PathFooter>
+                        <Automation SectionsEnabled="true" linkedSections="">
+                            <ObjectName></ObjectName>
+                            <LayerId></LayerId>
+                            <ObjectType></ObjectType>
+                            <ActionName></ActionName>
+                            <OverrideString></OverrideString>
+                            <RepeaterValue>1</RepeaterValue>
+                            <VariableReferences/>
+                            <itemID></itemID>
+                            <repoID></repoID>
+                            <Source>0</Source>
+                        </Automation>
+                    </PathFooter>
+                </PreviewHeaderFooter>
+                <ContainerData guid="486ec5ab5b434e7987ee4c66356a9ccb" xmlVersion="1.0" overrideSectionStepJoin="0">
+                    <FlowHeader/>
+                    <FlowFooter/>
+                    <BlockFooter/>
+                    <BlockHeader/>
+                    <PathHeader/>
+                    <PathFooter/>
+                    <PathJoin/>
+                    <StepJoin/>
+                </ContainerData>
+                <AutomationSectionModel guid="324e2e25bb7f4d8e8c718c4744725a40" xmlVersion="1.0">
+                    <AutomationSectionModelItem guid="0702b1d8c807454ebe07bc00e13a707c" xmlVersion="1.0">
+                        <AutomationSection guid="cf1b07771cdb4358b4172ee3bb8df4f7" xmlVersion="1.0" name="HiddenRoot" description="" defaultSelected="0" referencedRedundantSections="">
+                            <Steps>
+                                <InsertedSteps/>
+                                <SectionHeader/>
+                                <SectionFooter/>
+                                <SectionJoin/>
+                                <StepHeader/>
+                                <StepFooter/>
+                                <StepJoin/>
+                            </Steps>
+                        </AutomationSection>
+                        <ChildItems>
+                            <AutomationSectionModelItem guid="c385200fa97848dda4ae77a96840b086" xmlVersion="1.0">
+                                <AutomationSection guid="00000000000000000000000000000000" xmlVersion="1.0" name="Root" description="" defaultSelected="1" referencedRedundantSections="">
+                                    <Steps>
+                                        <InsertedSteps/>
+                                        <SectionHeader/>
+                                        <SectionFooter/>
+                                        <SectionJoin/>
+                                        <StepHeader/>
+                                        <StepFooter/>
+                                        <StepJoin/>
+                                    </Steps>
+                                </AutomationSection>
+                                <ChildItems/>
+                            </AutomationSectionModelItem>
+                        </ChildItems>
+                    </AutomationSectionModelItem>
+                </AutomationSectionModel>
+            </ExportSettings>
+            <seperate_scripts>0</seperate_scripts>
+        </layer_setting>
+    </layer_settings>
+</BatchConfig>
